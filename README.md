@@ -1,16 +1,21 @@
-## Hi there 👋
+  👋 Salut, moi c'est Judah Andriatiana !
 
-<!--
-**Judah-03/Judah-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   🚀 Full Stack Developer & CS Student @ EMIT Fianarantsoa
+J'aide les entreprises et les particuliers à concevoir des applications web modernes, performantes et sécurisées.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   🛠️ Tech Stack & Compétences
+- **Languages:** JavaScript, Python, PHP, SQL, HTML/CSS
+- **Frameworks & Tools:** React, Node.js, Git, Docker, Database Design
+
+---
+
+   💼 Ce que je peux réaliser pour vous :
+- 🌐 Développement d'applications web sur-mesure (Front-end & Back-end)
+- 🗄️ Conception et optimisation de bases de données
+- ⚙️ Intégration d'API et automatisation de processus
+
+  📬 Me contacter
+- **Email:** fyjudahandriatiana@gmail.com
+- **Location:** Antananarivo, Madagascar

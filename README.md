@@ -1,112 +1,128 @@
 # 👋 Hi, I'm Judah Andriatiana
 
-### 🚀 Full-Stack Developer | Computer Science Student @ EMIT Fianarantsoa
+### 🚀 Odoo Developer | Full-Stack Web & Mobile Developer | Computer Science Student
 
-I’m a passionate **Full-Stack Developer** and Computer Science student based in **Madagascar**, focused on building modern, scalable, secure, and user-friendly digital solutions.
+I'm a **Computer Science student at EMIT Fianarantsoa** and a developer focused on building **Odoo business solutions, web applications, mobile apps, APIs, and automation systems**.
 
-I help **businesses, startups, organizations, and individuals** turn ideas into reliable web applications and digital products.
+I enjoy transforming business requirements and ideas into **practical, scalable, secure, and user-friendly software solutions**.
 
-> 💡 **From idea to production — I build solutions designed to solve real-world problems.**
+> 💡 **Turning ideas and business needs into reliable software.**
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Science Student at **EMIT Fianarantsoa**
-* 💻 Full-Stack Web Developer
-* 🌍 Open to working with **international clients and remote teams**
-* 🚀 Interested in SaaS, business applications, APIs, automation, and scalable web solutions
-* 🧠 Always learning and improving my technical skills
-* 🤝 Available for freelance projects, internships, collaborations, and remote opportunities
+- 🎓 Computer Science Student — **EMIT Fianarantsoa**
+- 🟣 **Odoo Developer** — Custom modules & business workflows
+- 🌐 **Full-Stack Web Developer**
+- 📱 **Mobile Developer**
+- 🔌 API Development & System Integration
+- ⚙️ Business Process Automation
+- 🌍 Open to remote & international opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🟣 Odoo & ERP
 
-`JavaScript` · `Python` · `PHP` · `SQL` · `HTML5` · `CSS3`
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### Frontend
+**Custom Modules · CRM · Sales · Business Workflows · Automation · Odoo Administration**
 
-`React` · `HTML5` · `CSS3` · `JavaScript`
+### 🌐 Web Development
 
-### Backend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-`Node.js` · `Express.js` · `PHP`
+### 📱 Mobile Development
 
-### Database
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-`PostgreSQL` · `MySQL` · `Database Design` · `SQL`
+**Cross-Platform Apps · REST APIs · Authentication · Responsive UI**
 
-### Tools & Technologies
+### 🗄️ Database & APIs
 
-`Git` · `GitHub` · `Docker` · `REST APIs` · `API Integration`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+</p>
 
----
+**Database Design · SQL · Data Modeling · API Integration**
 
-## 💼 What I Can Build For You
+### ⚙️ Tools & DevOps
 
-### 🌐 Custom Web Applications
-
-Modern and scalable web applications tailored to your business requirements.
-
-### ⚙️ Backend & API Development
-
-Secure and reliable REST APIs, backend services, authentication systems, and integrations.
-
-### 🗄️ Database Solutions
-
-Database architecture, design, optimization, relationships, queries, and data management.
-
-### 🔄 Business Process Automation
-
-Automate repetitive tasks and connect your existing tools and services through APIs.
-
-### 🎨 Modern User Interfaces
-
-Clean, intuitive, responsive interfaces focused on usability and user experience.
-
----
-
-## 🎯 My Development Approach
-
-I believe good software is more than just code.
-
-My goal is to build solutions that are:
-
-* ⚡ **Fast & performant**
-* 🔐 **Secure**
-* 📈 **Scalable**
-* 🧩 **Maintainable**
-* 🎨 **User-friendly**
-* 💡 **Focused on business needs**
-
-I work closely with clients to understand their goals, transform ideas into technical solutions, and deliver practical results.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 🌍 Open to International Opportunities
+## 💼 What I Build
 
-I'm currently open to:
+### 🟣 Odoo Solutions
+Custom Odoo modules, business workflows, CRM, sales management, document management, and process automation.
 
-* 💼 Freelance projects
-* 🌎 Remote opportunities
-* 🤝 International collaborations
-* 🚀 Startup projects
-* 🏢 Software development partnerships
-* 🎓 Internships and professional opportunities
+### 🌐 Web Applications
+Modern, responsive, and scalable web applications tailored to business requirements.
 
-If you have an idea, a project, or a business problem that needs a technical solution, **let's talk.**
----
-## 📬 Let's Connect
+### 📱 Mobile Applications
+Cross-platform mobile applications using Flutter, with API and backend integration.
 
-📧 **Email:** [fyjudahandriatiana@gmail.com](mailto:fyjudahandriatiana@gmail.com)
-📍 **Based in:** Antananarivo, Madagascar
-🌍 **Available for:** Remote & International Projects
+### 🔌 APIs & Integrations
+REST APIs, authentication, database integration, and communication between different systems.
 
-> **Have an idea? Let's turn it into a working product. 🚀**
+### ⚙️ Business Automation
+Digitalization and automation of repetitive processes to improve efficiency and productivity.
 
 ---
 
-⭐ If you find my projects useful, feel free to **star my repositories** and follow my work!
+## 🎯 Development Philosophy
+
+I believe good software should be:
+
+**🔐 Secure · ⚡ Performant · 📈 Scalable · 🧩 Maintainable · 🎨 User-Friendly**
+
+My approach is simple:
+
+**Understand → Design → Develop → Test → Deploy**
+
+I focus on understanding the real problem before choosing the technical solution.
+
+---
+
+## 🚀 Featured Areas
+
+```text
+🟣 Odoo
+   ERP · CRM · Custom Modules · Business Automation
+
+🌐 Web
+   Frontend · Backend · APIs · Full-Stack Applications
+
+📱 Mobile
+   Flutter · Dart · REST APIs · Cross-Platform
+
+🗄️ Data
+   PostgreSQL · MySQL · SQL · Database Design
+
+⚙️ Engineering
+   Git · GitHub · Docker · Linux

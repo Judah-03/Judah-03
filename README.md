@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Judah Andriatiana
+   I'm Judah ANDRIATIANA
 
-### 🚀 Odoo Developer | Full-Stack Web & Mobile Developer | Computer Science Student
+### 🟣 Odoo Developer · 🌐 Full-Stack Web Developer · 📱 Mobile Developer
 
-I'm a **Computer Science student at EMIT Fianarantsoa** and a developer focused on building **Odoo business solutions, web applications, mobile apps, APIs, and automation systems**.
+I'm a **Computer Science student at EMIT Fianarantsoa** and a developer passionate about building **business applications, ERP solutions, web platforms, and mobile applications**.
 
-I enjoy transforming business requirements and ideas into **practical, scalable, secure, and user-friendly software solutions**.
+My main focus is **Odoo development**, including custom modules, business workflows, process automation, and system integration. I also develop **full-stack web applications and cross-platform mobile apps**.
 
-> 💡 **Turning ideas and business needs into reliable software.**
-
----
+> 🚀 **I turn ideas and business requirements into practical software solutions.**
 
 ## 🧑‍💻 About Me
 

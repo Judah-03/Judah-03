@@ -105,22 +105,4 @@ My approach is simple:
 
 I focus on understanding the real problem before choosing the technical solution.
 
----
 
-## 🚀 Featured Areas
-
-```text
-🟣 Odoo
-   ERP · CRM · Custom Modules · Business Automation
-
-🌐 Web
-   Frontend · Backend · APIs · Full-Stack Applications
-
-📱 Mobile
-   Flutter · Dart · REST APIs · Cross-Platform
-
-🗄️ Data
-   PostgreSQL · MySQL · SQL · Database Design
-
-⚙️ Engineering
-   Git · GitHub · Docker · Linux
